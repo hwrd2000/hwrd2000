@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Howard Hontiveros</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
 
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hwrd2000&label=Profile%20views&color=0e75b6&style=flat" alt="hwrd2000" /> </p>
+</center>
 
 # Github Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">

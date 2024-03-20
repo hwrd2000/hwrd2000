@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hwrd2000&label=Profile%20views&color=0e75b6&style=flat" alt="hwrd2000" /> </p>
 
-#Github Stats
+# Github Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
@@ -23,7 +23,7 @@
   </thead>
 </table>
 
-#Contact Me
+# Contact Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hwrd2000) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Howard Hontiveros</h1>
-<h3 align="center">&gt;A passionate backend developer from Philippines&lt;</h3>
+<h3 align="center">&gt; A passionate backend developer from Philippines &lt;</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hwrd2000&label=Profile%20visitor&color=0e75b6&style=flat" alt="Profile visitor"/> </p>
 

@@ -32,13 +32,15 @@
       </td>
       <td>
         <img
-          src="https://streak-stats.demolab.com/?user=hwrd2000&theme=tokyonight"
+          src="[https://streak-stats.demolab.com/?user=hwrd2000&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com?user=hwrd2000&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)"
           alt="GitHub Stats"
         />
       </td>
     </tr>
   </thead>
 </table>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwrd2000&theme=tokyonight)
 
 <br>
 

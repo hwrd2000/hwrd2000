@@ -19,6 +19,7 @@
 </div>
 
 <br>
+
 # Github Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
@@ -40,6 +41,7 @@
 </table>
 
 <br>
+
 # Tech Stack
 <div align="center">
   

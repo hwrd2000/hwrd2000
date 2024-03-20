@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Howard Hontiveros</h1>
-<h3 align="center">A passionate Programmer from Philippines</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h3 align="center">A passionate backend developer from Philippines</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hwrd2000&label=Profile%20views&color=0e75b6&style=flat" alt="hwrd2000" /> </p>
 
+#Github Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
@@ -22,6 +23,8 @@
   </thead>
 </table>
 
+#Contact Me
+<a href="https://stackoverflow.com/users/14354514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14354514" height="30" width="40" /></a>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hwrd2000) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) 

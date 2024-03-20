@@ -40,7 +40,11 @@
   </thead>
 </table>
 
+<div align="center">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwrd2000&theme=tokyonight)
+
+</div>
 
 <br>
 

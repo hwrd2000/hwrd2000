@@ -15,7 +15,7 @@
 #
 
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hwrd2000" alt="hwrd2000"/></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hwrd2000" alt="hwrd2000"/></a>
 </div>
 
 # Github Stats

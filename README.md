@@ -24,6 +24,8 @@
 
 <br>
 
+<div align="center">
+  
 # Github Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
@@ -54,8 +56,6 @@
 
 # Tech Stack
 
-<div align="center">
-  
 <u>Backend</u>
 
 <br>

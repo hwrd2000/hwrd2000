@@ -28,13 +28,13 @@
     <tr>
       <td>
         <img height = "150"
-          src="https://github-readme-stats.vercel.app/api?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight" style="max-width: 100%;
+          src="https://github-readme-stats.vercel.app/api?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight" style="max-width: 100%";
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img 
-          src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight" style="max-width: 100%;
+          src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight" style="max-width: 100%";
            alt="Top Language"
         />
       </td>

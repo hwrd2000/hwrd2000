@@ -27,13 +27,13 @@
   <thead>
     <tr>
       <td>
-        <img height="150"
+        <img
           src="https://github-readme-stats.vercel.app/api?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight&count_private=true"
           alt="GitHub Stats"
         />
       </td>
       <td>
-       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight max-width: 100%;">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight">
       </td>
     </tr>
   </thead>

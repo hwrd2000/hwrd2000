@@ -28,7 +28,7 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+          src="https://github-readme-stats.vercel.app/api?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>

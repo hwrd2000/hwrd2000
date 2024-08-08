@@ -33,8 +33,10 @@
         />
       </td>
       <td>
-     
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=hwrd2000)](https://github.com/hwrd2000/github-readme-stats)
+        <img 
+          src = "https://github-readme-stats.vercel.app/top-langs/api?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight"
+           alt="Top Language"
+        />
       </td>
     </tr>
   </thead>

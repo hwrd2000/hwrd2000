@@ -42,7 +42,7 @@
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwrd2000&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/profile-details?username=hwrd2000&&theme=tokyonight)
 
 </div>
 

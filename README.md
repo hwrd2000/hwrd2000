@@ -32,12 +32,12 @@
           alt="GitHub Stats"
         />
       </td>
-      <td>
+<!--       <td>
         <img 
-          src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight&token=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" style="max-width: 100%";
+          src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hwrd2000&show_icons=true&locale=en&theme=tokyonight" style="max-width: 100%";
            alt="Top Language"
         />
-      </td>
+      </td> -->
     </tr>
   </thead>
 </table>

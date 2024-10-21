@@ -18,7 +18,7 @@
 
 <div align="center">
   
-# Github Stats
+<!-- # Github Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
@@ -30,7 +30,7 @@
       </td>
     </tr>
   </thead>
-</table>
+</table> -->
 
 <div align="center">
   

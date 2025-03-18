@@ -2,9 +2,7 @@
 <h3 align="center">「 Web Developer 🗿 」</h3>
 
 - 👨‍💻 All of my projects are available at [Porfolio](https://portfolio-howard-h.vercel.app/)
-- 📫 How to reach me **hontiveros.howard@gmail.com**
-
-<br>
+- 📫 How to reach me;
 
 <div align="center">
   

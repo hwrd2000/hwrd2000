@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Howard</h1>
 <h3 align="center">「 Web Developer 🗿 」</h3>
-<p align="center">
-  <a href="https://portfolio-howard-h.vercel.app/" target="_blank"><strong>My Portfolio</strong></a>
-</p>
+
+- 👨‍💻 All of my projects are available at [Porfolio](https://portfolio-howard-h.vercel.app/)
 
 <br>
 

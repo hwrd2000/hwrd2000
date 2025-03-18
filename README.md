@@ -4,7 +4,8 @@
 - 👨‍💻 All of my projects are available at [Porfolio](https://portfolio-howard-h.vercel.app/)
 
 <div align="center">
-- 📫 How to reach me;
+- 📫 How to reach me; 
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) 
